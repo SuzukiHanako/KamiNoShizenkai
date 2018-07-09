@@ -1,0 +1,2 @@
+# KamiNoShizenkai
+Pokemon Like game
